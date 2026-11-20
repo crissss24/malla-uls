@@ -1,0 +1,541 @@
+{
+  "version": 1,
+  "generated": "2026-11-19",
+  "description": "Catálogo de 39 carreras ULS y un archivo histórico. Mallas recopiladas de fuentes secundarias; revisar cohorte.",
+  "officialCatalog": "https://userena.cl/carreras",
+  "careers": [
+    {
+      "id": "qf",
+      "name": "Química y Farmacia",
+      "code": "25039",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-mat-fis",
+      "name": "Pedagogía en Matemáticas y Física",
+      "code": "25025",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "enfermeria",
+      "name": "Enfermería",
+      "code": "25033",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "kinesiologia",
+      "name": "Kinesiología",
+      "code": "25037",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "astronomia",
+      "name": "Licenciatura en Astronomía",
+      "code": "25028",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "odontologia",
+      "name": "Odontología",
+      "code": "25036",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-biologia",
+      "name": "Pedagogía en Biología y Ciencias Naturales",
+      "code": "25024",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "quimica",
+      "name": "Química",
+      "code": "25038",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-matematicas",
+      "name": "Pedagogía en Matemáticas",
+      "code": "",
+      "faculty": "Ciencias",
+      "campus": "La Serena"
+    },
+    {
+      "id": "admpublica",
+      "name": "Administración Pública",
+      "code": "25071",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "auditoria",
+      "name": "Auditoría",
+      "code": "25061",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "derecho",
+      "name": "Derecho",
+      "code": "25070",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "comercial",
+      "name": "Ingeniería Comercial",
+      "code": "25067",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "admempresas",
+      "name": "Ingeniería en Administración de Empresas",
+      "code": "25069",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-historia",
+      "name": "Pedagogía en Historia y Geografía",
+      "code": "25042",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "periodismo",
+      "name": "Periodismo",
+      "code": "25065",
+      "faculty": "Sociales y Jurídicas",
+      "campus": "La Serena"
+    },
+    {
+      "id": "diseno",
+      "name": "Diseño",
+      "code": "25066",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "musica",
+      "name": "Licenciatura en Música",
+      "code": "25046",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-basica-ls",
+      "name": "Pedagogía en Educación General Básica (La Serena)",
+      "code": "25051",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-basica-ov",
+      "name": "Pedagogía en Educación General Básica (Ovalle)",
+      "code": "25053",
+      "faculty": "Humanidades",
+      "campus": "Ovalle"
+    },
+    {
+      "id": "ped-castellano",
+      "name": "Pedagogía en Castellano y Filosofía",
+      "code": "25041",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-diferencial",
+      "name": "Pedagogía en Educación Diferencial",
+      "code": "25052",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-musical",
+      "name": "Pedagogía en Educación Musical",
+      "code": "25044",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-parvularia",
+      "name": "Pedagogía en Educación Parvularia",
+      "code": "25050",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ped-ingles",
+      "name": "Pedagogía en Inglés",
+      "code": "25043",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "psicologia",
+      "name": "Psicología",
+      "code": "25064",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "traductor",
+      "name": "Traducción Inglés - Español",
+      "code": "25063",
+      "faculty": "Humanidades",
+      "campus": "La Serena"
+    },
+    {
+      "id": "biotec",
+      "name": "Ingeniería en Biotecnología con mención en Alimentos o Procesos Sustentables",
+      "code": "25019",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "icci",
+      "name": "Ingeniería Civil en Computación e Informática",
+      "code": "25006",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "arquitectura",
+      "name": "Arquitectura",
+      "code": "25015",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "construccion",
+      "name": "Ingeniería en Construcción",
+      "code": "25010",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ic",
+      "name": "Ingeniería Civil",
+      "code": "25004",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ici",
+      "name": "Ingeniería Civil Industrial",
+      "code": "25001",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "icm",
+      "name": "Ingeniería Civil Mecánica",
+      "code": "25002",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "icminas",
+      "name": "Ingeniería Civil de Minas",
+      "code": "25003",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "minas",
+      "name": "Ingeniería de Minas",
+      "code": "25017",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "ica",
+      "name": "Ingeniería Civil Ambiental",
+      "code": "25005",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "mecanica",
+      "name": "Ingeniería Mecánica",
+      "code": "25016",
+      "faculty": "Ingeniería",
+      "campus": "La Serena"
+    },
+    {
+      "id": "medicina",
+      "name": "Medicina",
+      "code": "25080",
+      "faculty": "Vicerrectoría Académica",
+      "campus": "La Serena"
+    },
+    {
+      "id": "fisica-historica",
+      "name": "Licenciatura en Física (histórica)",
+      "code": "",
+      "faculty": "Archivo histórico",
+      "campus": "La Serena",
+      "archived": true
+    }
+  ],
+  "plans": [
+    {
+      "id": "ici-2025",
+      "careerId": "ici",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 57,
+      "file": "data/plans/ici-2025.json"
+    },
+    {
+      "id": "ici-anterior-12",
+      "careerId": "ici",
+      "label": "Plan anterior · 12 semestres",
+      "year": "",
+      "quality": "historico",
+      "semesters": 12,
+      "subjects": 59,
+      "file": "data/plans/ici-anterior-12.json"
+    },
+    {
+      "id": "icm-2025",
+      "careerId": "icm",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 57,
+      "file": "data/plans/icm-2025.json"
+    },
+    {
+      "id": "ica-2025",
+      "careerId": "ica",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 57,
+      "file": "data/plans/ica-2025.json"
+    },
+    {
+      "id": "icminas-2025",
+      "careerId": "icminas",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 57,
+      "file": "data/plans/icminas-2025.json"
+    },
+    {
+      "id": "icci-2025",
+      "careerId": "icci",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 49,
+      "file": "data/plans/icci-2025.json"
+    },
+    {
+      "id": "ic-2025",
+      "careerId": "ic",
+      "label": "Plan renovado · 10 semestres",
+      "year": "2025+",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 56,
+      "file": "data/plans/ic-2025.json"
+    },
+    {
+      "id": "arquitectura-ref",
+      "careerId": "arquitectura",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 51,
+      "file": "data/plans/arquitectura-ref.json"
+    },
+    {
+      "id": "construccion-ref",
+      "careerId": "construccion",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 49,
+      "file": "data/plans/construccion-ref.json"
+    },
+    {
+      "id": "comercial-ref",
+      "careerId": "comercial",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 57,
+      "file": "data/plans/comercial-ref.json"
+    },
+    {
+      "id": "derecho-ref",
+      "careerId": "derecho",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 53,
+      "file": "data/plans/derecho-ref.json"
+    },
+    {
+      "id": "admpublica-ref",
+      "careerId": "admpublica",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 56,
+      "file": "data/plans/admpublica-ref.json"
+    },
+    {
+      "id": "psicologia-ref",
+      "careerId": "psicologia",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 56,
+      "file": "data/plans/psicologia-ref.json"
+    },
+    {
+      "id": "astronomia-ref",
+      "careerId": "astronomia",
+      "label": "Plan publicado · 8 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 8,
+      "subjects": 29,
+      "file": "data/plans/astronomia-ref.json"
+    },
+    {
+      "id": "diseno-ref",
+      "careerId": "diseno",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 53,
+      "file": "data/plans/diseno-ref.json"
+    },
+    {
+      "id": "traductor-ref",
+      "careerId": "traductor",
+      "label": "Plan publicado · 8 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 8,
+      "subjects": 46,
+      "file": "data/plans/traductor-ref.json"
+    },
+    {
+      "id": "ped-diferencial-ref",
+      "careerId": "ped-diferencial",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 54,
+      "file": "data/plans/ped-diferencial-ref.json"
+    },
+    {
+      "id": "periodismo-ref",
+      "careerId": "periodismo",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 51,
+      "file": "data/plans/periodismo-ref.json"
+    },
+    {
+      "id": "minas-ref",
+      "careerId": "minas",
+      "label": "Plan publicado · 8 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 8,
+      "subjects": 44,
+      "file": "data/plans/minas-ref.json"
+    },
+    {
+      "id": "mecanica-ref",
+      "careerId": "mecanica",
+      "label": "Plan publicado · 8 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 8,
+      "subjects": 43,
+      "file": "data/plans/mecanica-ref.json"
+    },
+    {
+      "id": "biotec-alimentos",
+      "careerId": "biotec",
+      "label": "Mención Alimentos · parcial",
+      "year": "",
+      "quality": "parcial",
+      "semesters": 9,
+      "subjects": 48,
+      "file": "data/plans/biotec-alimentos.json"
+    },
+    {
+      "id": "biotec-procesos",
+      "careerId": "biotec",
+      "label": "Mención Procesos Sustentables · parcial",
+      "year": "",
+      "quality": "parcial",
+      "semesters": 9,
+      "subjects": 48,
+      "file": "data/plans/biotec-procesos.json"
+    },
+    {
+      "id": "ped-parvularia-ref",
+      "careerId": "ped-parvularia",
+      "label": "Plan publicado · 10 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 10,
+      "subjects": 54,
+      "file": "data/plans/ped-parvularia-ref.json"
+    },
+    {
+      "id": "auditoria-ref",
+      "careerId": "auditoria",
+      "label": "Plan publicado · 8 semestres",
+      "year": "",
+      "quality": "referencial",
+      "semesters": 8,
+      "subjects": 46,
+      "file": "data/plans/auditoria-ref.json"
+    },
+    {
+      "id": "fisica-archivo",
+      "careerId": "fisica-historica",
+      "label": "Archivo referencial · 8 semestres",
+      "year": "",
+      "quality": "historico",
+      "semesters": 8,
+      "subjects": 33,
+      "file": "data/plans/fisica-archivo.json"
+    }
+  ]
+}
