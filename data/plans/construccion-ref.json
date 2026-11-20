@@ -1,0 +1,282 @@
+{
+  "id": "construccion-ref",
+  "careerId": "construccion",
+  "label": "Plan publicado · 10 semestres",
+  "year": "",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-en-construccion-la-serena-coquimbo-uls-FO-436778"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Cálculo y Geometría Analítica",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Química de los Materiales",
+        "area": "ciencias"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería en Obras de Construcción I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller para la Comunicación Efectiva",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral I",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Física General",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-3",
+        "name": "Dibujo de Ingeniería en Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-4",
+        "name": "Introducción a la Ingeniería en Obras de Construcción II",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo Diferencial e Integral II",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Métodos Estadísticos",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Física Aplicada",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Inglés Instrumental I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s3-5",
+        "name": "Tecnología de los Materiales",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Topografía General",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-2",
+        "name": "Tecnología del Hormigón y del Mortero",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-3",
+        "name": "Introducción a la Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-4",
+        "name": "Estática",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-5",
+        "name": "Inglés Instrumental II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Topografía Aplicada a la Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-2",
+        "name": "Resistencia de los Materiales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Introducción a la Mecánica de Suelos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-4",
+        "name": "Máquinas de Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Edificación I",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Edificación II",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-2",
+        "name": "Hidráulica General",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-3",
+        "name": "Análisis Estructural",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Mecánica de Suelos y Fundaciones",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-5",
+        "name": "Construcciones Viales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Interpretación de Planos y Cubicaciones",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Construcción de Puentes y Túneles",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-2",
+        "name": "Fundamentos del Hormigón Armado",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Presupuesto y Costos en la Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Proyectos Sanitarios",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Computación Aplicada",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Estructuras de Acero y Madera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Construcciones Hidráulicas y Marítimas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s8-3",
+        "name": "Administración de Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Proyectos de Gas y Climatización",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Proyectos Eléctricos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Formación para el Trabajo y Emprendimiento",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Planificación de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-2",
+        "name": "Legislación en la Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-3",
+        "name": "Contabilidad y Finanzas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-4",
+        "name": "Administración de Obras",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-5",
+        "name": "Taller de Titulación I",
+        "area": "titulacion"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Seguridad en la Construcción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-2",
+        "name": "Gestión Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-3",
+        "name": "Taller de Titulación II",
+        "area": "titulacion"
+      },
+      {
+        "id": "s10-4",
+        "name": "Práctica Profesional",
+        "area": "titulacion"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

@@ -1,0 +1,322 @@
+{
+  "id": "comercial-ref",
+  "careerId": "comercial",
+  "label": "Plan publicado · 10 semestres",
+  "year": "",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-comercial-la-serena-coquimbo-uls-FO-436777"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción a la Contabilidad General",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-2",
+        "name": "Métodos Matemáticos",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Derecho de Empresa",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Economía y Medio Ambiente",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-5",
+        "name": "Comunicación en la Organización",
+        "area": "formacion"
+      },
+      {
+        "id": "s1-6",
+        "name": "Fundamentos de Administración",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Análisis de Estados Financieros",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-2",
+        "name": "Cálculo Diferencial",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Ética y Responsabilidad Social",
+        "area": "formacion"
+      },
+      {
+        "id": "s2-4",
+        "name": "Gestión de Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-5",
+        "name": "Comportamiento Organizacional",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Actitud Emprendedora",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Fundamentos de Costos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-2",
+        "name": "Matemáticas Aplicadas a la Empresa",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Fundamentos de Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-4",
+        "name": "Economía y Desarrollo Empresarial",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Gestión de Recursos Humanos",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Costos y Presupuestos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-2",
+        "name": "Hojas de Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Estadística Aplicada a Empresas",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-4",
+        "name": "Finanzas Corporativas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-5",
+        "name": "Economía de Empresas y Competencia Imperfecta",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-6",
+        "name": "Desarrollo Sustentable",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Tecnologías de la Información y Comunicación",
+        "area": "formacion"
+      },
+      {
+        "id": "s5-2",
+        "name": "Sistemas de Información Administrativa",
+        "area": "formacion"
+      },
+      {
+        "id": "s5-3",
+        "name": "Legislación de Negocios",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Macroeconomía Global y Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Fundamentos de Marketing",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Metodología de la Investigación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-7",
+        "name": "Inglés",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Aplicaciones Informáticas y Negocios",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-2",
+        "name": "Sistemas de Información Avanzados",
+        "area": "formacion"
+      },
+      {
+        "id": "s6-3",
+        "name": "Gestión Financiera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Macroeconomía del Crecimiento",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Investigación de Mercado",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Innovación y Emprendimiento",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-7",
+        "name": "Inglés para la Administración y Economía",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Métodos Cuantitativos Aplicados a Empresas",
+        "area": "matematicas"
+      },
+      {
+        "id": "s7-2",
+        "name": "Taller de Habilidades Directivas",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-3",
+        "name": "Análisis de Riesgo Financiero",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Evaluación de Proyectos Empresariales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Marketing Estratégico",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-6",
+        "name": "Gestión Estratégica de Recursos Humanos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-7",
+        "name": "Electivo de Especialización",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Fundamentos de Dirección Estratégica",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Teoría de Decisiones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Formulación y Evaluación de Proyectos de Innovación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Econometría",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Marketing Operativo",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Ecosistema Emprendedor",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Estrategia de Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-2",
+        "name": "Taller de Titulación",
+        "area": "titulacion"
+      },
+      {
+        "id": "s9-3",
+        "name": "Taller de Control de Gestión",
+        "area": "formacion"
+      },
+      {
+        "id": "s9-4",
+        "name": "Electivo de Especialización",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-5",
+        "name": "Práctica Profesional",
+        "area": "titulacion"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Estrategia Avanzada de Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-2",
+        "name": "Proyecto de Titulación",
+        "area": "especialidad"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

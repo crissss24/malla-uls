@@ -1,0 +1,322 @@
+{
+  "id": "icminas-2025",
+  "careerId": "icminas",
+  "label": "Plan renovado · 10 semestres",
+  "year": "2025+",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-civil-de-minas-la-serena-coquimbo-uls-FO-436774"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción al Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Introducción al Álgebra",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería Civil de Minas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Estrategias de Aprendizaje para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Álgebra Lineal",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Física Newtoniana",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Taller de Habilidades Comunicativas para Ingeniería",
+        "area": "formacion"
+      },
+      {
+        "id": "s2-5",
+        "name": "Dibujo e Interpretación de Planos Mineros",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Herramientas Computacionales para Ingeniería",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo en Varias Variables",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Ecuaciones Diferenciales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Química General",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-5",
+        "name": "Programación para Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-6",
+        "name": "Infraestructura Minera",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Termodinámica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidad y Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Geología y Mineralogía",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-4",
+        "name": "Mecánica Estática",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-5",
+        "name": "Desafío de Proyecto de Ingeniería I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-6",
+        "name": "Inglés para Ingeniería I",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Cálculo Numéricos para Ingeniería Civil",
+        "area": "matematicas"
+      },
+      {
+        "id": "s5-2",
+        "name": "Geología Estructural y Económica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-3",
+        "name": "Fundamentos de Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Suelos y Macizos Rocosos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Investigación de Operaciones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Inglés para Ingeniería II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Mecánica de Fluidos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-2",
+        "name": "Liderazgo Ético en Equipos de Trabajo",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Mecánica de Rocas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-4",
+        "name": "Métodos de Explotación Minera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Legislación Minera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Procesos Metalúrgicos I",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Innovación y Emprendimiento en el Negocio Minero",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-2",
+        "name": "Servicios a la Minería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Procesos Metalúrgicos II",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Perforación y Tronadura",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Preparación y Evaluación de Proyectos Mineros",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-6",
+        "name": "Minería Sustentable y Circular",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Evaluación de Yacimientos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Carguío y Transporte",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Administración de Riesgos Operacionales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Ventilación de Minas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Economía Minera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Desafío de Proyecto de Ingeniería II",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Proyecto Profesional I",
+        "area": "titulacion"
+      },
+      {
+        "id": "s9-2",
+        "name": "Introducción y Gestión al Negocio Minero",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-3",
+        "name": "Minería Cielo Abierto",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-4",
+        "name": "Planificación Minera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-5",
+        "name": "Electivo de Formación Profesional I",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-6",
+        "name": "Electivo de Formación Profesional II",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Proyecto Profesional II",
+        "area": "titulacion"
+      },
+      {
+        "id": "s10-2",
+        "name": "Proyecto Minería Subterránea",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-3",
+        "name": "Proyecto Minería Cielo Abierto",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-4",
+        "name": "Electivo de Formación Profesional III",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-5",
+        "name": "Electivo de Formación Profesional IV",
+        "area": "electivo"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

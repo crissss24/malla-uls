@@ -1,0 +1,263 @@
+{
+  "id": "traductor-ref",
+  "careerId": "traductor",
+  "label": "Plan publicado · 8 semestres",
+  "year": "",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/traductor-ingles-espanol-la-serena-coquimbo-uls-FO-436793"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Lengua Inglesa I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Gramática Inglesa I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Gramática Española I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Español I",
+        "area": "formacion"
+      },
+      {
+        "id": "s1-5",
+        "name": "Lenguaje y Comunicación",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Lengua Inglesa II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Gramática Inglesa II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Gramática Española II",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-4",
+        "name": "Taller de Español II",
+        "area": "formacion"
+      },
+      {
+        "id": "s2-5",
+        "name": "Lingüística General",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Lengua Inglesa III",
+        "area": "idiomas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Gramática Sistemática",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-3",
+        "name": "Lectura y Composición de Textos en Inglés I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s3-4",
+        "name": "Semiótica Literaria",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Fonética y Fonología",
+        "area": "formacion"
+      },
+      {
+        "id": "s3-6",
+        "name": "Herramientas TAC I",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Lengua Inglesa IV",
+        "area": "idiomas"
+      },
+      {
+        "id": "s4-2",
+        "name": "Gramática Contrastiva",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-3",
+        "name": "Lectura y Composición de Textos en Inglés II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s4-4",
+        "name": "Traducción General",
+        "area": "idiomas"
+      },
+      {
+        "id": "s4-5",
+        "name": "Estudios de la Traducción",
+        "area": "idiomas"
+      },
+      {
+        "id": "s4-6",
+        "name": "Herramientas TAC II",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Discurso Integrado en Lengua Inglesa I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s5-2",
+        "name": "Estudios Literarios en Lengua Inglesa I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s5-3",
+        "name": "Cultura y Civilización de los Pueblos de Habla Inglesa I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s5-4",
+        "name": "Taller de Traducción I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s5-5",
+        "name": "Discurso y Traducción",
+        "area": "idiomas"
+      },
+      {
+        "id": "s5-6",
+        "name": "Herramientas TAC III",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Discurso Integrado en Lengua Inglesa II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s6-2",
+        "name": "Estudios Literarios en Lengua Inglesa II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s6-3",
+        "name": "Cultura y Civilización de los Pueblos de Habla Inglesa II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s6-4",
+        "name": "Taller de Traducción II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s6-5",
+        "name": "Metodología de la Investigación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Herramientas TAC IV",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Discurso Integrado en Lengua Inglesa III",
+        "area": "idiomas"
+      },
+      {
+        "id": "s7-2",
+        "name": "Traducción Literaria",
+        "area": "idiomas"
+      },
+      {
+        "id": "s7-3",
+        "name": "Culturas Comparadas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Taller de Traducción III",
+        "area": "idiomas"
+      },
+      {
+        "id": "s7-5",
+        "name": "Traducción Español-Inglés I",
+        "area": "idiomas"
+      },
+      {
+        "id": "s7-6",
+        "name": "Gestión de Proyectos I",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Discurso Integrado en Lengua Inglesa IV",
+        "area": "idiomas"
+      },
+      {
+        "id": "s8-2",
+        "name": "Corrección y Edición de Textos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Taller de Traducción IV",
+        "area": "idiomas"
+      },
+      {
+        "id": "s8-4",
+        "name": "Traducción Español-Inglés II",
+        "area": "idiomas"
+      },
+      {
+        "id": "s8-5",
+        "name": "Seminario Integrado/Tesina",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Gestión de Proyectos II",
+        "area": "especialidad"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

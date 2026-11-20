@@ -1,0 +1,326 @@
+{
+  "id": "ici-2025",
+  "careerId": "ici",
+  "label": "Plan renovado · 10 semestres",
+  "year": "2025+",
+  "quality": "referencial",
+  "notes": "Plan renovado de 10 semestres. Año de aplicación aproximado según anuncio ULS; revisar resolución de tu cohorte.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-civil-industrial-la-serena-coquimbo-uls-FO-436775"
+    },
+    {
+      "label": "ULS: renovación de ingenierías desde 2025",
+      "url": "https://userena.cl/actualidad/7383-en-un-hito-hist%C3%B3rico-la-facultad-de-ingenier%C3%ADa-de-la-userena-titul%C3%B3-a-m%C3%A1s-de-500-nuev-s-profesionales.html"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción al Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Introducción al Álgebra",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería Civil Industrial",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Estrategias de Aprendizaje para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Álgebra Lineal",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Física Newtoniana",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Herramientas Computacionales para Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-5",
+        "name": "Dibujo de Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Taller de Habilidades Comunicativas para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo en Varias Variables",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Ecuaciones Diferenciales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Programación para Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Química General",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-6",
+        "name": "Inglés para Ingeniería I",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Desafío de Proyecto de Ingeniería I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidad y Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Óptica y Ondas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-4",
+        "name": "Contabilidad General y de Costos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-5",
+        "name": "Termodinámica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-6",
+        "name": "Inglés para Ingeniería II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Métodos Numéricos para Ingeniería",
+        "area": "matematicas"
+      },
+      {
+        "id": "s5-2",
+        "name": "Análisis Multivariante y Econometría",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Administración de Empresas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Mecánica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-5",
+        "name": "Investigación de Operaciones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Inglés de Negocios",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Mecánica de Fluidos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-2",
+        "name": "Herramientas de Análisis de Datos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Estrategias de Mercado",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Fundamentos de Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Modelos Estocásticos y Simulación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Tecnologías de la Información",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Taller de Innovación y Prototipado",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-2",
+        "name": "Derecho y Ética Empresarial",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-3",
+        "name": "Desarrollo Organizacional",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Preparación y Evaluación de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Producción y Logística",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-6",
+        "name": "Modelado de Procesos de Negocio",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Desafío de Proyecto de Ingeniería II",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Gestión Estratégica",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Gestión Financiera",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Administración de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Procesos Industriales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Sistemas de Información",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Proyecto Profesional I",
+        "area": "titulacion"
+      },
+      {
+        "id": "s9-2",
+        "name": "Electivo de Formación Profesional I",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-3",
+        "name": "Electivo de Formación Profesional II",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-4",
+        "name": "Taller de Gestión de Proyectos",
+        "area": "formacion"
+      },
+      {
+        "id": "s9-5",
+        "name": "Prevención de Riesgos y Medioambiente",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-6",
+        "name": "Taller de Inteligencia de Negocios",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Proyecto Profesional II",
+        "area": "titulacion"
+      },
+      {
+        "id": "s10-2",
+        "name": "Electivo de Formación Profesional III",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-3",
+        "name": "Electivo de Formación Profesional IV",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-4",
+        "name": "Electivo de Formación Profesional V",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-5",
+        "name": "Electivo de Formación Profesional VI",
+        "area": "electivo"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

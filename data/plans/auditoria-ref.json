@@ -1,0 +1,263 @@
+{
+  "id": "auditoria-ref",
+  "careerId": "auditoria",
+  "label": "Plan publicado · 8 semestres",
+  "year": "",
+  "quality": "referencial",
+  "notes": "Malla referencial de terceros (8 semestres) sin vigencia confirmada ni requisitos oficiales.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://mimalla.com/plantillas/auditoria-universidad-de-la-serena-17ef78"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Administración de Empresas 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-2",
+        "name": "Comunicación en las Organizaciones",
+        "area": "formacion"
+      },
+      {
+        "id": "s1-3",
+        "name": "Informática Aplicada a la Empresa",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Inglés Empresarial 1",
+        "area": "idiomas"
+      },
+      {
+        "id": "s1-5",
+        "name": "Introducción al Medio Personal",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-6",
+        "name": "Matemáticas Empresariales 1",
+        "area": "matematicas"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Administración de Empresas 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-2",
+        "name": "Contabilidad 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-3",
+        "name": "Economía 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-4",
+        "name": "Inglés Empresarial 2",
+        "area": "idiomas"
+      },
+      {
+        "id": "s2-5",
+        "name": "Legislación Empresarial 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Matemáticas Empresariales 2",
+        "area": "matematicas"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Contabilidad 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-2",
+        "name": "Economía 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-3",
+        "name": "Estadísticas Empresariales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-4",
+        "name": "Gestión de la Producción",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Legislación Empresarial 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-6",
+        "name": "Técnicas de Investigación y Desarrollo de Trabajo",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Código Tributario",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-2",
+        "name": "Contabilidad 3",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-3",
+        "name": "Costos 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-4",
+        "name": "Ética Profesional y Responsabilidad Social",
+        "area": "formacion"
+      },
+      {
+        "id": "s4-5",
+        "name": "Gestión de las Personas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-6",
+        "name": "Introducción a Finanzas",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Auditoría 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-2",
+        "name": "Contabilidad 4",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Costos 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Finanzas de Corto Plazo",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Impuesto al Valor Agregado 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Sistemas de Información Administrativos",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Auditoría 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-2",
+        "name": "Contabilidad Aplicada",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Contabilidad en Instituciones Públicas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Finanzas de Largo Plazo",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Impuesto al Valor Agregado 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Taller de Habilidades Sociales y Gerenciales",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Auditoría 3",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-2",
+        "name": "Evaluación de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Gestión de Software Contable",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Impuesto a la Renta 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Métodos de Investigación 1",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Control de Gestión",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Impuesto a la Renta 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Integrativo Profesional",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Métodos de Investigación 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Práctica Profesional",
+        "area": "titulacion"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

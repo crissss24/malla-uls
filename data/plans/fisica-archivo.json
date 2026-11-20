@@ -1,0 +1,198 @@
+{
+  "id": "fisica-archivo",
+  "careerId": "fisica-historica",
+  "label": "Archivo referencial · 8 semestres",
+  "year": "",
+  "quality": "historico",
+  "notes": "Carrera histórica no incluida en el catálogo vigente de 39 carreras; conservar solo como referencia.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/licenciatura-en-fisica-la-serena-coquimbo-uls-FO-436779"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Álgebra y Geometría Analítica",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Cálculo I",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Física",
+        "area": "ciencias"
+      },
+      {
+        "id": "s1-4",
+        "name": "Inglés",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Álgebra Lineal I",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Cálculo II",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Mecánica I",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Programación",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Ecuaciones Diferenciales Ordinarias",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Cálculo III",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Mecánica II",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Álgebra Lineal II",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidades y Estadísticas",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Métodos Matemáticos de la Física",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-4",
+        "name": "Ondas",
+        "area": "ciencias"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Física del Calor",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-2",
+        "name": "Electrónica",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Introducción a la Física del Plasma",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-4",
+        "name": "Astronomía General",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Formación General I",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Mecánica Clásica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-2",
+        "name": "Física Moderna",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-3",
+        "name": "Teoría Electromagnética",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-4",
+        "name": "Formación General II",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Mecánica Cuántica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s7-2",
+        "name": "Física del Continuo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s7-3",
+        "name": "Electivo de Física I",
+        "area": "electivo"
+      },
+      {
+        "id": "s7-4",
+        "name": "Electivo de Física II",
+        "area": "electivo"
+      },
+      {
+        "id": "s7-5",
+        "name": "Historia y Filosofía de las Ciencias",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Mecánica Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s8-2",
+        "name": "Electivo de Física III",
+        "area": "electivo"
+      },
+      {
+        "id": "s8-3",
+        "name": "Taller de Investigación",
+        "area": "formacion"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

@@ -1,0 +1,317 @@
+{
+  "id": "ic-2025",
+  "careerId": "ic",
+  "label": "Plan renovado · 10 semestres",
+  "year": "2025+",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-civil-la-serena-coquimbo-uls-FO-436772"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción al Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Introducción al Álgebra",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería Civil",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Estrategias de Aprendizaje para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Álgebra Lineal",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Física Newtoniana",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Herramientas Computacionales para Obras Civiles",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-5",
+        "name": "Dibujo para Obras Civiles",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Taller de Habilidades Comunicativas para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo en Varias Variables",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Ecuaciones Diferenciales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Fundamentos de Programación para Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Química del Agua y los Materiales",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-6",
+        "name": "Inglés para Ingeniería I",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Desafío de Proyecto de Ingeniería I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidad y Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Física de Calor y Ondas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-4",
+        "name": "Mecánica Estática",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-5",
+        "name": "Cálculo Numérico para Ingeniería Civil",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-6",
+        "name": "Inglés para Ingeniería II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Mecánica de los Fluidos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-2",
+        "name": "Ingeniería de Materiales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Fundamentos de Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Mecánica de Sólidos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-5",
+        "name": "Investigación de Operaciones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Inglés para Ingeniería Civil",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Mecánica de Fluidos Avanzada",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-2",
+        "name": "Tecnología del Hormigón",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Mecánica Dinámica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s6-4",
+        "name": "Análisis Estructural Clásico",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Liderazgo e Innovación en Ingeniería Civil",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Fundamentos de Diseño en Ingeniería Civil",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Hidráulica de Canales",
+        "area": "ciencias"
+      },
+      {
+        "id": "s7-2",
+        "name": "Métodos Constructivos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Análisis Matricial de Estructuras",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Fundamentos de Geotecnia",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Hormigón Armado",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Hidrología",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Interpretación de Planos y Cubicaciones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Ingeniería Antisísmica",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Mecánica de Suelos y Fundaciones",
+        "area": "ciencias"
+      },
+      {
+        "id": "s8-5",
+        "name": "Estructuras de Acero",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Desafío de Proyecto de Ingeniería II",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Proyecto Profesional I",
+        "area": "titulacion"
+      },
+      {
+        "id": "s9-2",
+        "name": "Ingeniería Sanitaria y Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-3",
+        "name": "Evaluación y Administración de Proyectos de Obras Civiles",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-4",
+        "name": "Ingeniería Vial",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-5",
+        "name": "Electivo de Formación Profesional I",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-6",
+        "name": "Electivo de Formación Profesional II",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Proyecto Profesional II",
+        "area": "titulacion"
+      },
+      {
+        "id": "s10-2",
+        "name": "Presupuestos y Costos en Obras Civiles",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-3",
+        "name": "Formación Integral del Ingeniero Civil",
+        "area": "formacion"
+      },
+      {
+        "id": "s10-4",
+        "name": "Electivo de Formación Profesional III",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-5",
+        "name": "Electivo de Formación Profesional IV",
+        "area": "electivo"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

@@ -1,0 +1,302 @@
+{
+  "id": "diseno-ref",
+  "careerId": "diseno",
+  "label": "Plan publicado · 10 semestres",
+  "year": "",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/diseno-mencion-comunicacion-la-serena-coquimbo-uls-FO-436769"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Taller de Introducción al Diseño",
+        "area": "formacion"
+      },
+      {
+        "id": "s1-2",
+        "name": "Materiales y Estructura 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-3",
+        "name": "Software para el Diseño 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Morfología y Percepción 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-5",
+        "name": "Historia del Diseño",
+        "area": "formacion"
+      },
+      {
+        "id": "s1-6",
+        "name": "Pensamiento para la Creatividad",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Taller de Diseño Bidimensional",
+        "area": "formacion"
+      },
+      {
+        "id": "s2-2",
+        "name": "Materiales y Estructura 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-3",
+        "name": "Software para el Diseño 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-4",
+        "name": "Morfología y Percepción 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-5",
+        "name": "Diseño y Cultura",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Electivo Formación General Educación",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Taller de Diseño Tridimensional",
+        "area": "formacion"
+      },
+      {
+        "id": "s3-2",
+        "name": "Procesos de Producción 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-3",
+        "name": "Software para el Diseño 3",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-4",
+        "name": "Ilustración",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Ergonomía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-6",
+        "name": "Análisis Psicosociales para el Diseño",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Taller de Diseño Social",
+        "area": "formacion"
+      },
+      {
+        "id": "s4-2",
+        "name": "Procesos de Producción 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-3",
+        "name": "Modelación 3D 1",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-4",
+        "name": "Fotografía Interior",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-5",
+        "name": "Teoría de la Comunicación",
+        "area": "formacion"
+      },
+      {
+        "id": "s4-6",
+        "name": "Análisis Antropológico para el Diseño",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Taller de Diseño Local",
+        "area": "formacion"
+      },
+      {
+        "id": "s5-2",
+        "name": "Procesos de Producción 3",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Modelación 3D 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Fotografía Exterior",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Semiótica",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Análisis Sociológico para el Diseño",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-7",
+        "name": "Práctica de Procesos de Producción",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Taller de Diseño Global",
+        "area": "formacion"
+      },
+      {
+        "id": "s6-2",
+        "name": "Procesos de Producción 4",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Aplicaciones Digitales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Inglés",
+        "area": "idiomas"
+      },
+      {
+        "id": "s6-5",
+        "name": "Estética",
+        "area": "formacion"
+      },
+      {
+        "id": "s6-6",
+        "name": "Metodología de la Investigación 1",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Taller de Innovación Diseño",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-2",
+        "name": "Gestión del Diseño",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Diseño, Ética y Medioambiente",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-4",
+        "name": "Audiovisual",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Electivo 1 Formación de Especialidad",
+        "area": "electivo"
+      },
+      {
+        "id": "s7-6",
+        "name": "Electivo 2 Formación de Especialidad",
+        "area": "electivo"
+      },
+      {
+        "id": "s7-7",
+        "name": "Metodología de la Investigación 2",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-8",
+        "name": "Práctica de Procesos de Producción",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Taller Profesional",
+        "area": "formacion"
+      },
+      {
+        "id": "s8-2",
+        "name": "Estrategias de Negocio",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Electivo 1 Formación de Especialidad",
+        "area": "electivo"
+      },
+      {
+        "id": "s8-4",
+        "name": "Electivo 2 Formación de Especialidad",
+        "area": "electivo"
+      },
+      {
+        "id": "s8-5",
+        "name": "Seminario de Diseño",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Bitácora del Diseñador",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Proyecto de Título",
+        "area": "titulacion"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Práctica Profesional",
+        "area": "titulacion"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

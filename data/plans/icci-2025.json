@@ -1,0 +1,282 @@
+{
+  "id": "icci-2025",
+  "careerId": "icci",
+  "label": "Plan renovado · 10 semestres",
+  "year": "2025+",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-civil-en-computacion-e-informatica-la-serena-coquimbo-uls-FO-436804"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción al Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Introducción al Álgebra",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería Civil en Computación e Informática",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Estrategias de Aprendizaje para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Álgebra Lineal",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Física Newtoniana",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Programación Estructurada",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-5",
+        "name": "Taller de Habilidades Comunicativas para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo en Varias Variables",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Ecuaciones Diferenciales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Programación Orientada a Objetos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-5",
+        "name": "Inglés para Ingeniería I",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Métodos Numéricos para Ingeniería",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidad y Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Óptica y Ondas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-4",
+        "name": "Bases de Datos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-5",
+        "name": "Desafío de Proyecto de Ingeniería I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-6",
+        "name": "Inglés para Ingeniería II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Diseño y Análisis de Algoritmos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-2",
+        "name": "Fundamentos de Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Investigación de Operaciones",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-4",
+        "name": "Paradigmas y Lenguajes de Programación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Arquitectura de Computadores",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-6",
+        "name": "Inglés para Ingeniería III",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Inteligencia Artificial",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-2",
+        "name": "Teoría de la Computación",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Electrónica Aplicada",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Tópicos Avanzados de Bases de Datos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Sistemas Operativos",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Aprendizaje Automático",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-2",
+        "name": "Internet de las Cosas",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Ingeniería de Software",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Preparación y Evaluación de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Redes y Sistemas Distribuidos",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Sistemas Inteligentes",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Innovación y Emprendimiento Informático",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Taller de Desarrollo I",
+        "area": "formacion"
+      },
+      {
+        "id": "s8-4",
+        "name": "Desafío de Proyecto de Ingeniería II",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Sistemas de Información",
+        "area": "formacion"
+      },
+      {
+        "id": "s8-6",
+        "name": "Gestión de Proyectos Informáticos",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Informática y Sociedad",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-2",
+        "name": "Taller de Desarrollo II",
+        "area": "formacion"
+      },
+      {
+        "id": "s9-3",
+        "name": "Electivo de Formación Profesional I",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-4",
+        "name": "Electivo de Formación Profesional II",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Taller de Desarrollo III",
+        "area": "formacion"
+      },
+      {
+        "id": "s10-2",
+        "name": "Electivo de Formación Profesional III",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-3",
+        "name": "Electivo de Formación Profesional IV",
+        "area": "electivo"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}

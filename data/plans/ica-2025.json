@@ -1,0 +1,322 @@
+{
+  "id": "ica-2025",
+  "careerId": "ica",
+  "label": "Plan renovado · 10 semestres",
+  "year": "2025+",
+  "quality": "referencial",
+  "notes": "Asignaturas recopiladas de la fuente indicada. Año del decreto y prerrequisitos no verificados.",
+  "sources": [
+    {
+      "label": "Malla curricular publicada por Cursos y Carreras",
+      "url": "https://www.cursosycarreras.cl/ingenieria-civil-ambiental-la-serena-coquimbo-uls-FO-436773"
+    }
+  ],
+  "semesters": [
+    [
+      {
+        "id": "s1-1",
+        "name": "Introducción al Cálculo",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-2",
+        "name": "Introducción al Álgebra",
+        "area": "matematicas"
+      },
+      {
+        "id": "s1-3",
+        "name": "Introducción a la Ingeniería Civil Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s1-4",
+        "name": "Taller de Estrategias de Aprendizaje para Ingeniería",
+        "area": "formacion"
+      }
+    ],
+    [
+      {
+        "id": "s2-1",
+        "name": "Cálculo Diferencial e Integral",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-2",
+        "name": "Álgebra Lineal",
+        "area": "matematicas"
+      },
+      {
+        "id": "s2-3",
+        "name": "Física Newtoniana",
+        "area": "ciencias"
+      },
+      {
+        "id": "s2-4",
+        "name": "Taller de Habilidades Comunicativas para Ingeniería",
+        "area": "formacion"
+      },
+      {
+        "id": "s2-5",
+        "name": "Dibujo de Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s2-6",
+        "name": "Herramientas Computacionales para Ingeniería",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s3-1",
+        "name": "Cálculo en Varias Variables",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-2",
+        "name": "Ecuaciones Diferenciales",
+        "area": "matematicas"
+      },
+      {
+        "id": "s3-3",
+        "name": "Electromagnetismo",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-4",
+        "name": "Química General",
+        "area": "ciencias"
+      },
+      {
+        "id": "s3-5",
+        "name": "Programación para Ingeniería",
+        "area": "especialidad"
+      },
+      {
+        "id": "s3-6",
+        "name": "Cálculos Ambientales",
+        "area": "matematicas"
+      }
+    ],
+    [
+      {
+        "id": "s4-1",
+        "name": "Termodinámica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-2",
+        "name": "Probabilidad y Estadística",
+        "area": "matematicas"
+      },
+      {
+        "id": "s4-3",
+        "name": "Óptica y Ondas",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-4",
+        "name": "Mecánica",
+        "area": "ciencias"
+      },
+      {
+        "id": "s4-5",
+        "name": "Desafío de Proyecto de Ingeniería I",
+        "area": "especialidad"
+      },
+      {
+        "id": "s4-6",
+        "name": "Inglés para Ingeniería I",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s5-1",
+        "name": "Métodos Numéricos para Ingeniería",
+        "area": "matematicas"
+      },
+      {
+        "id": "s5-2",
+        "name": "Fundamentos de Economía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-3",
+        "name": "Geología Ambiental",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-4",
+        "name": "Ciencias Ambientales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s5-5",
+        "name": "Mecánica de Fluidos",
+        "area": "ciencias"
+      },
+      {
+        "id": "s5-6",
+        "name": "Inglés para Ingeniería II",
+        "area": "idiomas"
+      }
+    ],
+    [
+      {
+        "id": "s6-1",
+        "name": "Preparación y Evaluación de Proyectos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-2",
+        "name": "Ecología y Biodiversidad",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-3",
+        "name": "Recursos Hídricos Subterráneos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-4",
+        "name": "Recursos Hídricos Superficiales",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-5",
+        "name": "Balance de Materia y Energía",
+        "area": "especialidad"
+      },
+      {
+        "id": "s6-6",
+        "name": "Reportabilidad Ambiental",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s7-1",
+        "name": "Taller de Innovación y Prototipado",
+        "area": "formacion"
+      },
+      {
+        "id": "s7-2",
+        "name": "Cartografía y SIG",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-3",
+        "name": "Toxicología Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-4",
+        "name": "Industria, Minería y Sustentabilidad",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-5",
+        "name": "Energía y Sustentabilidad",
+        "area": "especialidad"
+      },
+      {
+        "id": "s7-6",
+        "name": "Fundamentos de Modelación Ambiental",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s8-1",
+        "name": "Derecho e Institucionalidad Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-2",
+        "name": "Relaciones con Comunidades",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-3",
+        "name": "Gestión de Residuos Sólidos y Peligrosos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-4",
+        "name": "Tratamiento y Distribución de Agua",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-5",
+        "name": "Gestión de Contaminantes Atmosféricos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s8-6",
+        "name": "Desafío de Proyecto de Ingeniería II",
+        "area": "especialidad"
+      }
+    ],
+    [
+      {
+        "id": "s9-1",
+        "name": "Proyecto Profesional I",
+        "area": "titulacion"
+      },
+      {
+        "id": "s9-2",
+        "name": "Evaluación de Impacto Ambiental",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-3",
+        "name": "Sistemas de Gestión y Estándares para la Sustentabilidad",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-4",
+        "name": "Gestión de Residuos Líquidos",
+        "area": "especialidad"
+      },
+      {
+        "id": "s9-5",
+        "name": "Electivo de Formación Profesional I",
+        "area": "electivo"
+      },
+      {
+        "id": "s9-6",
+        "name": "Electivo de Formación Profesional II",
+        "area": "electivo"
+      }
+    ],
+    [
+      {
+        "id": "s10-1",
+        "name": "Proyecto Profesional II",
+        "area": "titulacion"
+      },
+      {
+        "id": "s10-2",
+        "name": "Liderazgo",
+        "area": "especialidad"
+      },
+      {
+        "id": "s10-3",
+        "name": "Ética Profesional",
+        "area": "formacion"
+      },
+      {
+        "id": "s10-4",
+        "name": "Electivo de Formación Profesional III",
+        "area": "electivo"
+      },
+      {
+        "id": "s10-5",
+        "name": "Electivo de Formación Profesional IV",
+        "area": "electivo"
+      }
+    ]
+  ],
+  "prerequisitesVerified": false
+}
